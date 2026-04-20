@@ -1,4 +1,4 @@
-🎧 Custom Audio Control Interface
+🎧 Wubba Lubba Dub Dub
 
 This project is a custom audio player built using HTML5 and vanilla JavaScript, demonstrating programmatic control of audio without external libraries.
 
@@ -23,7 +23,7 @@ Upload an audio file using the file selector
 Use the controls to interact with the audio
 🌐 Live Demo
 
-(Add your GitHub Pages link here)
+
 
 📁 Repository
 
