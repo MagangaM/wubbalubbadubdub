@@ -1,4 +1,4 @@
-🎧 Wubba Lubba Dub Dub
+🎧 Custom Audio Control Interface
 
 This project is a custom audio player built using HTML5 and vanilla JavaScript, demonstrating programmatic control of audio without external libraries.
 
@@ -9,7 +9,7 @@ This project is a custom audio player built using HTML5 and vanilla JavaScript, 
 🔇 Mute / Unmute toggle
 ⏩ Skip forward / backward
 ⏱️ Real-time playback progress and duration display
-🎚️ Playback speed contro
+🎚️ Playback speed control
 🔁 Loop / Repeat option
 🎯 Seek bar for navigation
 ⌨️ Keyboard shortcuts for interaction
@@ -26,15 +26,13 @@ Use the controls to interact with the audio
 
 🌐 Live Demo
 
-https://magangam.github.io/wubbalubbadubdub/
+(https://magangam.github.io/wubbalubbadubdub/)
 
 📁 Repository
 
-https://github.com/MagangaM/wubbalubbadubdub.git
+(https://github.com/MagangaM/wubbalubbadubdub.git)
 
 ⚠️ Notes
 No external libraries or frameworks were used
 Works best on modern browsers
 Audio files are loaded locally (not stored)
-
-Source of README: OpenAI
