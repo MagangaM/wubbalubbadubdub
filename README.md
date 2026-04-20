@@ -17,20 +17,23 @@ This project is a custom audio player built using HTML5 and vanilla JavaScript, 
 HTML5
 CSS3
 JavaScript (Audio API)
+
 📂 How to Use
 Open the app in your browser
 Upload an audio file using the file selector
 Use the controls to interact with the audio
+
 🌐 Live Demo
 
-
+https://magangam.github.io/wubbalubbadubdub/
 
 📁 Repository
 
-(Add your GitHub repository link here)
+https://github.com/MagangaM/wubbalubbadubdub.git
 
 ⚠️ Notes
 No external libraries or frameworks were used
 Works best on modern browsers
 Audio files are loaded locally (not stored)
 
+Source of README: OpenAI
