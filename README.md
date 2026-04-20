@@ -9,10 +9,11 @@ This project is a custom audio player built using HTML5 and vanilla JavaScript, 
 🔇 Mute / Unmute toggle
 ⏩ Skip forward / backward
 ⏱️ Real-time playback progress and duration display
-🎚️ Playback speed control
+🎚️ Playback speed contro
 🔁 Loop / Repeat option
 🎯 Seek bar for navigation
 ⌨️ Keyboard shortcuts for interaction
+
 🛠️ Technologies Used
 HTML5
 CSS3
